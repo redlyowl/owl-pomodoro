@@ -1,0 +1,5 @@
+Owl pomodoro desktop app is to help focus in studies or work using the famous 25/5 pomodoro techinic for those who cant focus 
+its a minimalist timer that has a theme of my own PR "redowly" 
+''' bash 
+g++ testingg.cpp -o PomodoroApp -lsfml-graphics -lsfml-window -lfsml-system -lsfml-audio
+./PomodoroApp
